@@ -77,6 +77,7 @@ A curated list of specialized GPT chatbots designed to assist you in a variety o
 - [FramerGPT](https://chat.openai.com/g/g-MXpLvufG8-framergpt) - Generate Framer code components and overrides.
 - [Full Stack Developer](https://chat.openai.com/g/g-N82dqklAi-full-stack-developer) - I generate code for and fix issues in B2B SaaS web apps.
 - [Game Craft Guru](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru) - Focused game mechanics and design expert.
+- [GitGPT Companion](https://chat.openai.com/g/g-QFgyxAMpV-gitgpt-companion) - Top-notch repo advice, automated readme file generation, code suggestions and interpretation.
 - [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt) - Your personal security tool
 - [Learn AI in Fun Way](https://chat.openai.com/g/g-VbMY5EfGL-learn-ai-in-fun-way) - A humorous ML trainer who teaches with jokes and quizzes, making learning AI entertaining and enjoyable.
 - [Mindmap](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) - Assists in creating structured mind maps for organizing thoughts and ideas.
